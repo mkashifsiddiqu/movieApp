@@ -10,6 +10,8 @@ export default function Home({results}) {
       <Head>
         <title>HuluPk</title>
         <meta name="description" content="website Is Develop by Kashif" />
+          <meta property="og:title" content="Check Trending Movies" />
+        <meta property="og:image" content="https://www.istockphoto.com/photos/movie-theater" />
       </Head>
       {/* header of Website  */}
       <Header/>
